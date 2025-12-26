@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "type": "critical",
+  "title": "⚠️ 盗版警告",
+  "message": "检测到非法盗版！请访问官方下载：https://fengzi520.com",
+  "version": "1.0"
+}
