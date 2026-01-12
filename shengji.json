@@ -1,6 +1,7 @@
-   {
-     "enabled": true,
-     "title": "重要通知",
-     "message": "2026年1月13日优化更新模式三图片注入元数据无坐标信息问题.（作者V：jiayou88066）",
-     "type": "info"
-   }
+{
+  "enabled": false,
+  "type": "critical",
+  "title": "⚠️版本升级",
+  "message": "优化模式三图片元数据：https://fengzi520.com",
+  "version": "2.0"
+}
